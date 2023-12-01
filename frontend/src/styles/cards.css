@@ -1,0 +1,13 @@
+.card{
+
+    background-color: #FAF4F3;
+    width: 392px;
+    height: 372px;
+    transition: 200ms;
+}
+.card:hover{
+    border: rgb(112, 42, 16) dashed 1px;
+    cursor: pointer;
+    /* scale: 1.01; */
+    
+}
