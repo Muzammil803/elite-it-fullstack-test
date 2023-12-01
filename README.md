@@ -22,6 +22,8 @@ code .
 npm install
 
 npm start
+## backend will run on the port 8080
+
 
 ## Frontend Setup
 
