@@ -9,9 +9,11 @@
 
 ### Step 1: Clone Project
 ```bash
-## Backend Setup
+
 
 git clone https://github.com/Muzammil803/elite-it-fullstack-test
+
+## Backend Setup
 
 cd backend
 
